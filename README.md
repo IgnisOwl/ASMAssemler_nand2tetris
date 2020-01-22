@@ -6,3 +6,5 @@ Things I want to change:
 * Neater Code
 * Remove redundant dictionaries
 * Make it more modular/remove the direct translations. AKA: "A=D" will be "10101"
+
+BOOK: http://f.javier.io/rep/books/The%20Elements%20of%20Computing%20Systems.pdf
